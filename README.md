@@ -26,5 +26,6 @@
 
 ## Stats 📊
 
+![](https://komarev.com/ghpvc/?username=th3Hellion)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th3Hellion&theme=dark)
